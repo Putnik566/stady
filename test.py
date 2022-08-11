@@ -3,6 +3,8 @@
 print("HI !!!")""""Capysta, Egor, Anton, Vaysa !!!"""
 print("###")
 print("print")
-||||||| 4fcb098
 print("HI !!!")
-
+#fdgfdgdfsdfsdfsfsf
+#commentary
+#comment
+#comm
